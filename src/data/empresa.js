@@ -13,6 +13,10 @@ export const empresa = {
       descricao: "Compromisso com código limpo, boas práticas de engenharia e entregas de alta qualidade."
     },
     {
+      titulo:"Confiabilidade",
+      descricao: "Somos confiáveis."
+    },
+    {
       titulo: "Transparência e parceria",
       descricao: "Comunicação clara e honesta, tratando cada cliente como um parceiro de longo prazo."
     },
@@ -55,6 +59,10 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
-    }
+    }, 
+    {nome: "Carlos Sainz Vázquez de Castro Cenamor Rincón Rebollo Virto Moreno de Aranda Don Per Urrielagoiria Pérez del Pulgar",
+      cargo: "Designer de UI/UX",
+      alt: "Foto do Carlinhos",
+      descricao: "Responsável por proporcionar a melhor esperiência do usuário ao utilizar nosso site."}
   ]
 };
